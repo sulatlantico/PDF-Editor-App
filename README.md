@@ -15,7 +15,7 @@ Aplicativo desktop em **Python + PyQt6** para **juntar PDFs** com uma interface 
 
 ---
 
-## Screenshot
+## Homepage
 
 ![Screenshot](homepage.png)
 
